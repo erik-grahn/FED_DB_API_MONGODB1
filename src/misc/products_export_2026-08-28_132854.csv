@@ -1,0 +1,23 @@
+product_id,name,description,price,stock,img,created_at
+1,Magic Mouse,Touch-sensitive mouse especially made for MAC,899.00,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgFigZW7exPPH0n3Dm-52boFPtOQjfQhdVkB-PsTvdQ&s=10,2026-08-12 11:49:38
+2,Magic Keyboard 2,"Keyboard with a sleek and modern designe, made to fit the Apple family of products",1299.00,1,,2026-08-18 12:05:17
+4,Mouse Pad 2.0,Black Mouse Pad,199.00,1,,2026-08-18 21:30:16
+5,Wireless Gaming Mouse,Lightweight wireless gaming mouse with adjustable DPI,599.00,25,,2026-08-19 15:25:03
+6,Mechanical Gaming Keyboard,Compact mechanical keyboard with RGB lighting,899.00,18,,2026-08-19 15:25:12
+7,USB-C Hub 7-in-1,"USB-C hub with HDMI, USB and SD card ports",449.00,30,,2026-08-19 15:25:22
+8,Gaming Headset Pro,Surround sound gaming headset with detachable microphone,799.00,14,,2026-08-19 15:25:31
+9,27 Inch Gaming Monitor,27 inch 1440p gaming monitor with 165Hz refresh rate,3299.00,9,,2026-08-19 15:25:46
+11,32 Inch 4K Monitor,Large 32 inch 4K monitor with IPS panel,4499.00,7,,2026-08-19 15:26:06
+12,1TB NVMe SSD,Fast 1TB NVMe solid state drive for desktop computers,999.00,35,,2026-08-19 15:26:12
+13,2TB External SSD,Portable 2TB external SSD with USB-C connection,1799.00,16,,2026-08-19 15:26:22
+14,4TB External Hard Drive,High-capacity 4TB external hard drive for backups and storage,1199.00,22,,2026-08-19 15:26:31
+15,RTX Gaming Graphics Card,High-performance graphics card designed for modern gaming,6499.00,6,,2026-08-19 15:26:39
+16,Budget Graphics Card,Affordable graphics card for everyday gaming and multimedia,2499.00,12,,2026-08-19 15:26:46
+17,Home Office Desktop,"Quiet desktop computer designed for work, browsing and everyday tasks",7999.00,8,,2026-08-19 15:26:54
+18,Gaming Desktop PC,Powerful gaming desktop with dedicated graphics card,14999.00,5,,2026-08-19 15:27:11
+19,Bluetooth Speakers,Compact wireless speakers with clear sound and deep bass,699.00,24,,2026-08-19 15:27:23
+20,4K Streaming Device,"Streaming device for movies, TV shows and music in 4K",899.00,19,,2026-08-19 15:27:31
+21,Webcam Full HD,Full HD webcam with built-in microphone for meetings and streaming,499.00,27,,2026-08-19 15:27:38
+22,Gaming Controller,Wireless controller compatible with PC gaming,649.00,21,,2026-08-19 15:27:45
+23,32GB DDR5 RAM Kit,32GB DDR5 memory kit for modern desktop computers,1299.00,28,,2026-08-19 15:27:53
+24,Desk Cable Management Kit,Cable management set for keeping your computer setup organized,249.00,40,,2026-08-19 15:28:01
